@@ -327,3 +327,7 @@ nav {
             height: 300px;
         }    
     }
+
+    html {
+        scroll-behavior: smooth;
+    }
