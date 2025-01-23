@@ -2001,6 +2001,7 @@ header{
   align-items:center;
   justify-content:center;
   z-index: 1000;
+  display: none;
 }
 
 @keyframes pulsing {
@@ -2035,8 +2036,3 @@ header{
 }
 
 
-.floating_btn .text_icon {
-  margin-top: 8px;
-  color: #707070;
-  font-size: 13px;
-}
